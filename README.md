@@ -4,9 +4,10 @@
 📧 Email: Maximoposse38.gmail
 💻 Materias: Diseño Web Dinámico - Estático, Programación III 
 ✍ Lenguajes Vistos en Clase:
-![Adobe Express - file](https://github.com/user-attachments/assets/87b384fa-eef9-41bf-8dea-93d2722ee506)
-![java2-Photoroom](https://github.com/user-attachments/assets/49685658-64c8-4a4d-aaa2-7f7fd84ef053)
-![javascript-logo-javascript-icon-transparent-free-png-Photoroom](https://github.com/user-attachments/assets/8a9aa028-9a94-4113-ad7a-d85acb70770a)
-![Arduino_IDE_logo svg](https://github.com/user-attachments/assets/c233d200-5170-4635-8e8f-0f0d46b9c72c)
-![avew9415g-Photoroom](https://github.com/user-attachments/assets/e75d9b36-64a0-42d5-b638-4e5bd1d52d29)
+![Adobe Express - file](https://github.com/user-attachments/assets/23cda52f-7c20-47f2-a52c-2998222ec136)
+![Arduino_IDE_logo svg](https://github.com/user-attachments/assets/817aaf32-0608-4d7c-9d70-eb5dca0a63b2)
+![avew9415g-Photoroom](https://github.com/user-attachments/assets/7c9b64db-c729-418d-abdd-4a83192aa571)
+![java2-Photoroom](https://github.com/user-attachments/assets/973d8569-efbc-491a-a150-c1be7a1ba5f3)
+![javascript-logo-javascript-icon-transparent-free-png-Photoroom](https://github.com/user-attachments/assets/80e46214-433d-474d-8a10-09afeee29986)
+
 
